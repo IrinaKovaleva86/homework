@@ -18,6 +18,7 @@
 *git branch* - список веток в репозитории
 
 *git checkout branch_name* - создать новую ветку
+
 *git merge <branch_name>* - слияние веток
 
 
