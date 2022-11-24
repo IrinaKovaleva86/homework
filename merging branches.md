@@ -8,3 +8,8 @@
 
 ## Команды Git
 
+*git branch* - список веток в репозитории
+
+*git checkout branch_name* - создать новую ветку
+
+
