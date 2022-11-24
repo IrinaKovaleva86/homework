@@ -17,6 +17,9 @@
 
 *git branch* - список веток в репозитории
 
+*git branch branch_name* - создать новую ветку
+
+
 
 *git checkout branch_name* - перейти на ветку с именем branch_name
 
