@@ -8,3 +8,6 @@
 
 ## Команды Git
 
+*git merge <branch_name>* - слияние веток
+
+
